@@ -126,3 +126,5 @@ tools that bridge technology and business impact.
 <p align="center">
   <img src="https://github.com/Ravikodidala45/Ravikodidala45/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
+![Snake animation](https://github.com/Ravikodidala45/Ravikodidala45/blob/output/github-contribution-grid-snake.svg)
