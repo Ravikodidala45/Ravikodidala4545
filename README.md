@@ -45,3 +45,10 @@ tools that bridge technology and business impact.
 📫 **Let's connect!**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravikodidal)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Ravikodidala45)
+## 📊 GitHub Stats
+
+![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravikodidala45&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravikodidala45&layout=compact&theme=default&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ravikodidala45&theme=default&hide_border=true)](https://git.io/streak-stats)
