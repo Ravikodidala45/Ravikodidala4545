@@ -102,6 +102,12 @@ tools that bridge technology and business impact.
 </p>
 
 ---
+🔨 **Key Projects**
+1. 🌐 **Translator App** — Real-time voice translator supporting 130+ languages
+2. 📊 **Power BI Charts** — Curated data visualization assets for business intelligence
+3. 💳 **Mastercard Gateway Module** — Payment gateway integration for OpenCart (PHP)
+4. ⚡ **Express Starter Kit** — Scalable Node.js/Express boilerplate for rapid development
+
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
