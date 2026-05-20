@@ -125,4 +125,4 @@ tools that bridge technology and business impact.
 <h3 align="center">🐍 Contribution Graph</h3>
 <p align="center">
  
-![Snake animation](https://github.com/Ravikodidala45/Ravikodidala45/blob/output/github-contribution-grid-snake.svg)
+<p align="center">![Snake animation](https://github.com/Ravikodidala45/Ravikodidala45/blob/output/github-contribution-grid-snake.svg)
