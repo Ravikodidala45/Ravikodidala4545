@@ -8,11 +8,12 @@ tools that bridge technology and business impact.
 
 ---
 
-🚀 **Skills**
-- **Languages:** JavaScript, PHP, HTML, CSS
-- **Backend:** Node.js, Express.js
-- **Tools:** Power BI, OpenCart, REST APIs
-- **Other:** Voice & NLP integration, Payment Gateway Development
+
+## 🚀 Skills
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+- Python, SQL, Power BI, Tableau
 
 ---
 
